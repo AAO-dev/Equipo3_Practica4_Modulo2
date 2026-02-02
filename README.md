@@ -1,6 +1,6 @@
 # Práctica 4 – Predicción de Churn de Clientes  
-**Diplomado en Ciencia de Datos – Módulo 2 (Modelos Supervisados)**
-**Equipo 3**
+**Diplomado en Ciencia de Datos – Módulo 2 (Modelos Supervisados) - Equipo 3**
+
 
 ## Descripción del proyecto
 En esta práctica se aborda el problema de **abandono de clientes (churn)** en una empresa de telecomunicaciones utilizando técnicas de **aprendizaje supervisado**.  
